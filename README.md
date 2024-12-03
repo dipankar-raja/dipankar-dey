@@ -153,4 +153,3 @@ the images. A CNN model is then trained on the original, encrypted, and decrypte
 6. **Future Improvements**
 7. **Acknowledgements**
 
-Let me know if you'd like a draft for the README!
