@@ -111,7 +111,7 @@ the images. A CNN model is then trained on the original, encrypted, and decrypte
 ## 13. **Model Training**
 - **Purpose**: Trains the autoencoder on normalized training images.
 - **Key Parameters**:
-  - `epochs`: Number of training iterations (default: 20).
+  - `epochs`: Number of training iterations.
   - `batch_size`: Number of samples per gradient update (default: 64).
   - `validation_data`: Used for validating the model after each epoch.
 
